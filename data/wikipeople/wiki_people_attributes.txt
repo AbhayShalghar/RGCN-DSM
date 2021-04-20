@@ -1,0 +1,129 @@
+P101	field of work	specialization of a person or organization; see P106 for the occupation
+P102	member of political party	the political party of which this politician is or has been a member
+P103	native language	language or languages a person has learned from early childhood
+P1035	honorific suffix	word or expression with connotations conveying esteem or respect when used, after a name, in addressing or referring to a person
+P1037	director / manager	person who manages any kind of group
+P1050	medical condition	any state relevant to the health of an organism, including diseases and positive conditions
+P106	occupation	occupation of a person; see also "field of work" (Property:P101), "position held" (Property:P39)
+P1142	political ideology	political ideology of this organization or person
+P118	league	league in which team or player plays or has played in
+P119	place of burial	location of grave, resting place, place of ash-scattering, etc, (e.g. town/city or cemetery) for a person or animal. There may be several places: e.g. re-burials, cenotaphs, parts of body buried separately.
+P1196	manner of death	general circumstances of a person's death; e.g. natural causes, accident, suicide, homicide, etc.  Use 'cause of death' (P509) for the specific physiological mechanism, e.g. heart attack, trauma, pneumonia...
+P1303	instrument	musical instrument that a person plays
+P1317	floruit	date when the person was known to be active or alive, when birth or death not documented
+P1321	place of origin (Switzerland)	lieu d'origine/Heimatort/luogo d'origine of a Swiss national. Not be confused with place of birth or place of residence
+P1340	eye color	color of the irises of a person's eyes
+P1343	described by source	reference work where this item is described
+P1344	participant in	event in which a person or organization was/is a participant; inverse of P710 or P1923
+P1346	winner	winner of an event - do not use for awards (use P166/P2453 instead), nor for wars or battles
+P1347	military casualty classification	allowed values:  killed in action (Q210392), missing in action (Q2344557), died of wounds (Q16861372), prisoner of war (Q179637), killed in flight accident (Q16861407), others used in military casualty classification
+P135	movement	literary, artistic, scientific or philosophical movement or scene associated with this person or work
+P136	genre	creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic
+P137	operator	person, profession, or organization that operates the equipment, facility, or service; use country for diplomatic missions
+P138	named after	entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier "applies to name" (P5168) can be used to indicate which one
+P1387	political alignment	political position within the political spectrum
+P1399	convicted of	crime a person was convicted of
+P140	religion	religion of a person, organization or religious building, or associated with this subject
+P1411	nominated for	award nomination received by a person, organisation or creative work (inspired from "award received" (Property:P166))
+P1412	languages spoken, written or signed	language(s) that a person speaks, writes or signs, including the native language(s)
+P1416	affiliation	organization that a person or organization is affiliated with (not necessarily member of or employed by)
+P1441	present in work	this (fictional) entity or person is present in the story of that work (use P2860 for works citing other works, P361/P1433 for works being part of / published in other works, P1343 for entities described in non-fictional accounts)
+P1532	country for sport	country a person or a team represents when playing a sport
+P155	follows	immediately prior item in a series of which the subject is a part [if the subject has replaced the preceding item, e.g. political offices, use "replaces" (P1365)]
+P156	followed by	immediately following item in a series of which the subject is a part [if the subject has been replaced, e.g. political offices, use "replaced by" (P1366)]
+P1576	lifestyle	typical way of life of an individual, group, or culture
+P159	headquarters location	specific location where an organization's headquarters is or has been situated. Inverse property of "occupant" (P466).
+P1596	penalty	penalty passed at a trial
+P1636	date of baptism in early childhood	date when a person was baptized. For times when only baptism records were available, this can be a good substitute for date of birth.
+P166	award received	award or recognition received by a person, organisation or creative work
+P170	creator	maker of this creative work or other object (where no more specific property exists). Paintings with unknown painters, use "anonymous" (Q4233718) as value.
+P1706	with	qualifier to specify the item that this property is shared with
+P172	ethnic group	subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themself, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)
+P1731	Fach	describes the special ablilites of an operatic singers voice
+P175	performer	actor, musician, band or other performer associated with this role or musical work
+P1830	owner of	entities owned by the subject
+P1853	blood type	blood type of the human or animal
+P1884	hair color	person's hair color. Use P585 as qualifier if there's more than one value
+P19	place of birth	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character
+P1950	second family name in Spanish name	second (generally maternal) family name in Spanish names (do not use for other double barrelled names)
+P20	place of death	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+P2031	work period (start)	start of period during which a person or group flourished (fl. = "floruit") in their professional activity
+P2032	work period (end)	end of period during which a person or group flourished (fl. = "floruit") in their professional activity
+P2094	competition class	official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion
+P21	sex or gender	sex or gender identity: male (Q6581097), female (Q6581072), intersex (Q1097630), transgender female (Q1052281), transgender male (Q2449503). Animal: male organism (Q44148), female organism (Q43445). Groups of same gender use subclass of (P279)
+P2348	time period	time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred
+P2358	Roman praenomen	standard part of the name of a Roman, link to items for specific Roman praenomen only.
+P2359	Roman nomen gentilicium	standard part of the name of a Roman, link to items about the Roman gens only
+P241	military branch	branch to which this military unit, award, office, or person belongs, e.g. Royal Navy
+P2416	sports discipline competed in	discipline an athlete competed in within a sport
+P2578	studies	subject item is the academic field studying the object item of this property
+P2596	culture	human culture or people (or several cultures) associated with this item
+P263	official residence	the residence at which heads of government and other senior figures officially reside
+P2632	place of detention	place where this person is or was detained
+P264	record label	brand and trademark associated with the marketing of subject music recordings and music videos
+P2650	interested in	item of special or vested interest to this person or organisation
+P27	country of citizenship	the object is a country that recognizes the subject as its citizen
+P279	subclass of	next higher class or type; all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with P31 (instance of)
+P286	head coach	on-field manager or head coach of a sports club (not to be confused with a general manager P505, which is not a coaching position) or person
+P2868	subject has role	role/generic identity of the item ("subject"), also in the context of a statement. For the role of the value of the statement ("object"), use P3831 ("object has role"). For acting roles, use P453 ("character role"). For persons, use P39.
+P2925	domain of saint or deity	domain(s) which this saint or deity controls or protects
+P2962	title of chess person	title awarded by a chess federation to a person
+P3342	significant person	person linked to the item in any possible way
+P358	discography	link to discography in artist or band page
+P3602	candidacy in election	election where the subject is a candidate
+P361	part of	object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of "has part" (P527, see also "has parts of the class" (P2670)).
+P3716	social classification	social class as recognized in traditional or state law
+P39	position held	subject currently or formerly holds the object position or public office
+P3919	contributed to creative work	person is cited as contributing to some creative or published work or series (qualify with "subject has role", P2868)
+P407	language of work or name	language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use "native language" (P103) and "languages spoken, written or signed" (P1412))
+P410	military rank	military rank achieved by a person (should usually have a "start time" qualifier), or military rank associated with a position
+P411	canonization status	stage in the process of attaining sainthood per the subject's religious organization
+P412	voice type	person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)
+P413	position played on team / speciality	position or specialism of a player on a team
+P423	shooting handedness	whether the hockey player passes or shoots left- or right-handed
+P460	said to be the same as	this item is said to be the same as that item, but the statement is disputed
+P463	member of	organization, musical group, or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).
+P468	dan/kyu rank	rank system used in several board games (e.g. go, shogi, renju), martial arts (e.g. judo, kendo, wushu) and some other games
+P470	Eight Banner register	Manchu household register for people of the Qing Dynasty
+P485	archives at	the institution holding the subject's archives
+P488	chairperson	presiding member of an organization, group or body
+P495	country of origin	country of origin of this item (creative work, food, phrase, product, etc.)
+P509	cause of death	underlying or immediate cause of death.  Underlying cause (e.g. car accident, stomach cancer) preferred.  Use 'manner of death' (P1196) for broadest category, e.g. natural causes, accident, homicide, suicide
+P511	honorific prefix	word or expression used before a name, in addressing or referring to a person
+P512	academic degree	academic degree that the person holds
+P53	family	family, including dynasty and nobility houses. Not family name (use P734 for family name).
+P54	member of sports team	sports teams or clubs that the subject currently represents or formerly represented
+P551	residence	the place where the person is or has been, resident
+P552	handedness	handedness of the person
+P553	website account on	website that the person or organization has an account on (use with P554) Note: only used with reliable source or if the person or organization disclosed it.
+P569	date of birth	date on which the subject was born
+P57	director	director(s) of film, TV-series, stageplay, video game or similar
+P570	date of death	date on which the subject died
+P571	inception	date or point in time when the subject came into existence as defined
+P580	start time	time an item begins to exist or a statement starts being valid
+P582	end time	time an item ceases to exist or a statement stops being valid
+P585	point in time	time and date something took place, existed or a statement was true
+P598	commander of (DEPRECATED)	for persons who are notable as commanding officers, the units they commanded
+P607	conflict	battles, wars or other military engagements in which the person or item participated
+P611	religious order	order of monks or nuns to which an individual or religious house belongs
+P641	sport	sport in which the subject participates or belongs to
+P647	drafted by	which team the player was drafted by
+P66	ancestral home	place of origin for ancestors of subject
+P69	educated at	educational institution attended by subject
+P734	family name	part of full name of person
+P735	given name	first name or another given name of this person; values used with the property shouldn't link disambiguations nor family names.
+P737	influenced by	this person, idea, etc. is informed by that other person, idea, etc., e.g. "Heidegger was influenced by Aristotle".
+P740	location of formation	location where a group or organization was formed
+P741	playing hand	hand used to play a racket sport
+P746	date of disappearance	date or point of time a missing person was seen or otherwise known to be alive for the last time
+P793	significant event	significant or notable events associated with the subject
+P800	notable work	notable scientific, artistic or literary work, or other work of significance among subject's works
+P803	professorship	professorship position held by this academic person
+P812	academic major	subject someone studied at college/university
+P841	feast day	saint's principal feast day
+P859	sponsor	organization or individual that sponsors this item
+P91	sexual orientation	the sexual orientation of the person — use IF AND ONLY IF they have stated it themselves, unambiguously, or it has been widely agreed upon by historians after their death
+P937	work location	location where persons were active
+P945	allegiance	country (or other power) that the person or organization serves
+P97	noble title	titles held by the person
+P972	catalog	catalog for the item, or, as a qualifier of P528 – catalog for which the 'catalog code' is valid

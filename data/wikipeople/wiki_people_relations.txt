@@ -1,0 +1,23 @@
+P1038	relative	family member (qualify with "type of kinship", P1039; for direct family member please use specific property)
+P1039	type of kinship	qualifier of "relative" (P1038) to indicate less usual family relationships (ancestor, son-in-law, adoptions, etc). Indicate how the qualificator item is related to the main item.
+P1066	student of	person who has taught this person
+P108	employer	person or organization for which the subject works or worked
+P1290	godparent	person who is the godparent of a given person
+P1327	partner in business or sport	professional collaborator
+P1365	replaces	person or item replaced. Use "structure replaces" (P1398) for structures. Use "follows" (P155) if the previous item was not replaced or predecessor and successor are identical
+P1366	replaced by	other person or item which continues the item by replacing it in its role. Use P156 (followed by) if the item is not replaced (e.g. books in a series), nor identical, but adds to the series without dropping the role of this item in that series
+P157	killed by	person who killed the subject
+P184	doctoral advisor	person who supervised the doctorate or PhD thesis of the subject
+P185	doctoral student	doctoral student(s) of a professor
+P1875	represented by	person or agency that represents or manages the subject
+P1889	different from	item that is different from another item, with which it is often confused
+P1598	consecrator	bishop who presided as consecrator or co-consecrator of this bishop
+P22	father	male parent of the subject. For stepfather, use "stepparent" (P3448)
+P25	mother	female parent of the subject. For stepmother, use "stepparent" (P3448)
+P26	spouse	the subject has the object as their spouse (husband, wife, partner, etc.). Use "unmarried partner" (P451) for non-married companions
+P3373	sibling	the subject has the object as their sibling (brother, sister, etc.). Use "relative" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)
+P3448	stepparent	subject has the object as their stepparent
+P40	child	subject has object as child. Do not use for stepchildren
+P451	unmarried partner	someone with whom the person is in a relationship without being married. Use "spouse" (P26) for married couples
+P802	student	notable student(s) of the subject individual
+P941	inspired by	work, human, place or event which inspired this creative work or fictional entity

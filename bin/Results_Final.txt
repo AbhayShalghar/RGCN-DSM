@@ -1,0 +1,32 @@
+Baseline rgcn without edgeweight
+
+CHILD           0.66
+COLLEAGUE       0.81
+EMPLOYER        0.72
+NO_REALTION     0.76
+NOTHING         1.0
+PARENT          0.66
+PARTNER         0.74
+RELATED         0.78
+RELATIVE        0.69
+SELFLOOP        0.95
+SIBLING         0.64
+SPOUSE          0.74    
+STUDENT         0.81
+
+
+Rgcn with edgeweight
+
+CHILD           0.82
+COLLEAGUE       0.99
+EMPLOYER        0.98
+NO_REALTION     0.78
+NOTHING         0.82 !
+PARENT          0.86
+PARTNER         0.94
+RELATED         0.78
+RELATIVE        0.69
+SELFLOOP        0.95
+SIBLING         0.64
+SPOUSE          0.74    
+STUDENT         0.81

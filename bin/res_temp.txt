@@ -1,0 +1,420 @@
+{'name': 'Q22090133', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'John D. Rockefeller III', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Minamoto no Tōru', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nikolai Marr', 'title': 1, 'introduction': 0, 'text': 1, 'infobox': 2}
+{'name': 'Maurice Emmanuel', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Lyudmila Pavlichenko', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Aleksey Greig', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Imre Nagy', 'title': 0, 'introduction': 0, 'text': 9, 'infobox': 0, '1956 Revolution and aftermath (1956–1957)': 5, 'Prison years (1957–1963)': 1, 'Return to politics (1988–1990)': 1, 'Presidency': 1}
+{'name': 'Svyatoslav Fyodorov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Roman Jakobson', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Dan Hill', 'title': 1, 'introduction': 0, 'text': 7, 'infobox': 1, 'Singles': 1}
+{'name': 'Cy Coleman', 'title': 2, 'introduction': 2, 'text': 8, 'infobox': 0}
+{'name': 'Q10899495', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Vasily II of Moscow', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': "Izz al-Din ibn 'Abd al-Salam", 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Francisco Silvela', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Henry (VII) of Germany', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'René Coty', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Mikhail Korshuk', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603677', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11097349', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ludacris', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jules A. Hoffmann', 'title': 1, 'introduction': 1, 'text': 4, 'infobox': 1, 'List of awards': 1}
+{'name': 'Marguerite de Navarre', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Banchob Benchama', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q15901721', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Louise Élisabeth de Bourbon', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Tufa Rutan', 'title': 0, 'introduction': 0, 'text': 13, 'infobox': 0, 'Middle reign: entrenchment and stagnation': 3, 'Late reign: gradual weakening of Later Qin': 3, 'Middle reign': 1}
+{'name': 'Tina Turner', 'title': 0, 'introduction': 0, 'text': 6, 'infobox': 2, 'Photography and art': 1, 'Legacy and influence': 1}
+{'name': 'Wolfgang Bosbach', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q19535037', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nikita Bogoslovsky', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11009083', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Larry Hagman', 'title': 1, 'introduction': 0, 'text': 10, 'infobox': 3}
+{'name': 'Q11658304', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Didius Julianus', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Michael Fisher', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Henry Parkes', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Maggie Smith', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Johann Schweigger', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Stamatis Mercouris', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Kevin Costner', 'title': 1, 'introduction': 0, 'text': 13, 'infobox': 2, '2000s–2010s': 1}
+{'name': 'Sergey Volkonsky', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Thor Heyerdahl', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Udo Jürgens', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Sergei Ivanov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Fernando Pessoa', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Julie London', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11495116', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Isabella of Angoulême', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11077245', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603499', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q1690512', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Park Chung-hee', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Pythagoras', 'title': 1, 'introduction': 11, 'text': 211, 'infobox': 3, 'Berlin': 1, 'Biographical sources': 17, 'Alleged travels': 14, 'Alleged Greek teachers': 19, 'In Croton': 9, 'Family and friends': 9, 'Teachings': 6, 'Mysticism': 2, 'Pythagoreanism': 5, 'Prohibitions and regulations': 10, 'Legends': 15, 'Attributed discoveries': 8, 'In astronomy': 3, 'Later influence in antiquity': 5, 'On art and architecture': 3, 'In early Christianity': 9, 'Influence after antiquity': 4, 'On modern science': 3, 'On vegetarianism': 5, 'On Western esotericism': 11, 'On literature': 3, 'Pythagoras on In Our Time at the BBC': 8}
+{'name': "Maureen O'Hara", 'title': 0, 'introduction': 1, 'text': 3, 'infobox': 0, 'Filmography and awards': 1}
+{'name': 'Susana Naidich', 'title': 1, 'introduction': 1, 'text': 4, 'infobox': 0, 'Notable students': 3}
+{'name': 'Charles II, Archduke of Austria', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Q10336685', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q1032365', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q21030230', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jesse Cook', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Karl Opperman', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16077021', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16259848', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603399', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': "Paul d'Albert de Luynes", 'title': 1, 'introduction': 1, 'text': 3, 'infobox': 3}
+{'name': 'Millard Fillmore', 'title': 0, 'introduction': 2, 'text': 8, 'infobox': 3, 'Second period in the Senate': 1, 'Secretary of State in the Fillmore administration': 1, 'University of Virginia': 1, 'Later life (1841–1862)': 1}
+{'name': 'Q10338604', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Vladimir Petrov (ice hockey)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'David Trimble', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16076778', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Liu Hongcao', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Oda Nobunaga', 'title': 0, 'introduction': 3, 'text': 16, 'infobox': 3, 'Battle of Okehazama and death': 1, 'Appearances in popular fiction': 1, 'Takeda retainer': 1, 'Early years': 1, 'Military life': 1}
+{'name': 'Richard Mentor Johnson', 'title': 1, 'introduction': 1, 'text': 13, 'infobox': 5, 'Anonymous:': 4, 'Later life and death (1837–1845)': 1, '1836 presidential election': 1}
+{'name': 'Louise Bourgeois', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603364', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Infanta Cristina of Spain', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Agostino Casaroli', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Charles Williams-Wynn (1775–1850)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Corinne Bennett', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11622113', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Princess Christine of Hesse-Rotenburg', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Siméon Denis Poisson', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'James Earl Jones', 'title': 0, 'introduction': 0, 'text': 4, 'infobox': 0, 'Bowling Green State University': 1, 'The Field and Harry Potter': 1}
+{'name': 'Wojciech Rubinowicz', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ivan I of Moscow', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Mary of Hungary (governor of the Netherlands)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Anatoly Kvashnin', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Empress Xiao (Sui dynasty)', 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603727', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Valdemar II of Denmark', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Claude Lévi-Strauss', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Monica Seles', 'title': 0, 'introduction': 0, 'text': 17, 'infobox': 0, '1998: 1st WTA singles title and entering the top 10': 1, '2000–02: Williams sisters domination': 1, 'Start of professional training': 1, 'Tennis career': 1, '2013: Third shoulder injury': 1, '2003: Ascent to No. 1': 1, '2005: Second French Open and injuries': 1, 'National representation': 1, 'Hopman Cup': 1}
+{'name': 'Sebastian Coe', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': "Michael O'Kennedy", 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jens Eriksen', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16077025', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jean-Auguste-Dominique Ingres', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q18193371', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10956211', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11097743', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Carel de Vos van Steenwijk', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16260776', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Daniel Day-Lewis', 'title': 0, 'introduction': 0, 'text': 4, 'infobox': 1, '1991–1995': 1, '1996–2000': 1}
+{'name': 'Chinua Achebe', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Richard Law, 1st Baron Coleraine', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Kirsten Tackmann', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Patrick Modiano', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11095406', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Xerxes I', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Frank Chesterton', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Moshe Dayan', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0}
+{'name': 'Dov Ber of Mezeritch', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'John Field (composer)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Georg Benda', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Willard Libby', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Q21296893', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Alexei Mishin', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q122362', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10719962', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Leroy Hood', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10565056', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Karl Friedrich Schinkel', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10907833', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11094285', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Philippe-Antoine Merlin de Douai', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jean Simmons', 'title': 1, 'introduction': 0, 'text': 12, 'infobox': 2, '1970s–2020': 1, 'Hollywood': 1}
+{'name': 'Q10889772', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q13363422', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Osip Mandelstam', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Elisabeth of Sicily, Duchess of Bavaria', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'David Eddy (badminton)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Charles Dutoit', 'title': 1, 'introduction': 0, 'text': 8, 'infobox': 2, 'Reaction': 2}
+{'name': 'Jacques-François Menou', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Johann Gottlieb Fichte', 'title': 1, 'introduction': 1, 'text': 13, 'infobox': 3, 'Part I: Published Works': 1, 'Selected works in English': 3, 'Works online in English': 2}
+{'name': 'Puyi', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Pierre Louis Roederer', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nero Claudius Drusus', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'George Marshall', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Juho Kusti Paasikivi', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Leonid Kantorovich', 'title': 1, 'introduction': 2, 'text': 8, 'infobox': 5}
+{'name': 'Ferry Sonneville', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Guy de Rothschild', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Moby', 'title': 0, 'introduction': 1, 'text': 12, 'infobox': 0, '2010s': 1}
+{'name': 'Pauline Therese of Württemberg', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Francis I of France', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11071602', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Wilhelm Friedemann Bach', 'title': 1, 'introduction': 1, 'text': 17, 'infobox': 2}
+{'name': 'Q11094489', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Christopher Lambert', 'title': 1, 'introduction': 2, 'text': 9, 'infobox': 2, 'Subsequent success and acting career': 1, '1985 to 2000: International fame': 1}
+{'name': 'Sergiu Celibidache', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Alfonso XIII', 'title': 0, 'introduction': 0, 'text': 5, 'infobox': 0, 'Interbellum period': 1, 'Honours and namesakes': 1}
+{'name': 'Joseph Léopold Sigisbert Hugo', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q15952928', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ashanti (singer)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nikolai Zhugan', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Theodor Svedberg', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Margaret Beckett', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 3}
+{'name': 'Zdravko Čolić', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Irina Rodnina', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11094444', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q1676003', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Charles H. Townes', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Carl Wieman', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Emil Abderhalden', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11097762', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Léopold Sédar Senghor', 'title': 0, 'introduction': 1, 'text': 2, 'infobox': 0}
+{'name': 'René, Marquis of Elbeuf', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Pharrell Williams', 'title': 0, 'introduction': 1, 'text': 3, 'infobox': 0, '2013–2016: Kiss Me Once and Kylie Christmas': 1}
+{'name': 'Nectan of Hartland', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Erik Benzelius the younger', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Maria Anna of Spain', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Roberto Silva (Peruvian footballer)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Maria Amalia of Naples and Sicily', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': '2 Chainz', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Theodoric the Great', 'title': 1, 'introduction': 2, 'text': 7, 'infobox': 0, 'Early life and rise to power': 1}
+{'name': 'Liv Ullmann', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nino, Princess of Mingrelia', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Arnold Schoenberg', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0}
+{'name': 'Sergey Kapitsa', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Franz Cumont', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Hugh XI of Lusignan', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11064679', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Wesley Clark', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0, 'Kosovo': 1}
+{'name': 'Frederick William II of Prussia', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'William Benjamin Carpenter', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Rudy Gunawan', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Robert Grosvenor, 1st Baron Ebury', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Spyridon Trikoupis', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Juliana of Stolberg', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16260351', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10720976', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Qian Liu', 'title': 1, 'introduction': 1, 'text': 29, 'infobox': 2, "After Emperor Taizu's reign": 1, 'Service under Dong Chang and takeover of Zhenhai Circuit': 1, 'Destruction of Dong Chang': 1, 'Rule over Zhenhai and Zhendong': 5, 'As Later Liang vassal': 8, 'As Later Tang vassal': 4, 'Personality and impact of reign': 2}
+{'name': 'José Quitongo', 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Stephan Kuhl', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16078032', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Marie Joséphine of Savoy', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Georg I, Duke of Saxe-Meiningen', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603489', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Helena Blavatsky', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Princess Milica of Montenegro', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Prince Kaneyoshi', 'title': 1, 'introduction': 1, 'text': 1, 'infobox': 1}
+{'name': 'Archduke Rudolf of Austria (1919–2010)', 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Antonia the Elder', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Salomon Eberhard Henschen', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11152626', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Valentin Nikolayev (footballer)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Joan of England, Queen of Sicily', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Q16260828', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11094293', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11133608', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q20970301', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11763783', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Louis, Duke of Burgundy', 'title': 1, 'introduction': 1, 'text': 1, 'infobox': 1}
+{'name': 'Brian May', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Matthias Withoos', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Michael Mann (scholar)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603332', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10944090', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Pink (singer)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Oscar Peterson', 'title': 1, 'introduction': 0, 'text': 28, 'infobox': 3, 'Duos, trios, and quartets': 2, 'Peterson and Tatum': 1}
+{'name': 'Bruce Lee', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0}
+{'name': 'Georges Duhamel', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Henri, Grand Duke of Luxembourg', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Aslan Maskhadov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11132601', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'François Gérard', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Mauricio Pinilla', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10897698', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16908172', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Norman Borlaug', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Albert-Ernest Carrier-Belleuse', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16075398', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nick Jonas', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10620991', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ma Ying-jeou', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Gianni Letta', 'title': 1, 'introduction': 1, 'text': 4, 'infobox': 2, 'Letta Cabinet': 1}
+{'name': 'Princess Cecilie of Baden', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Steve Nash', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Kate Winslet', 'title': 0, 'introduction': 0, 'text': 8, 'infobox': 0, '2004–2009: Return to film': 1, '2009–2016: mainstream success and brief hiatus': 1}
+{'name': 'Peter III of Russia', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Charles Holden', 'title': 1, 'introduction': 0, 'text': 13, 'infobox': 2, 'War cemeteries and memorials': 1, 'University of London': 1, 'Recognition and legacy': 1, 'Image galleries': 2, 'Portraits': 2}
+{'name': 'Q11089729', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Eugène-Melchior de Vogüé', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q1605109', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Peter Gabriel', 'title': 0, 'introduction': 0, 'text': 5, 'infobox': 0, '1990s to 2000': 1, 'Solo career': 1, 'Philanthropy and activism': 1}
+{'name': 'Maud of Wales', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11094268', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Aleksey Zhemchuzhnikov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Neil Tarrant', 'title': 1, 'introduction': 1, 'text': 2, 'infobox': 1}
+{'name': 'Q11450087', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nikodim Kondakov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Cory Doctorow', 'title': 1, 'introduction': 0, 'text': 8, 'infobox': 2}
+{'name': 'Jérôme Carcopino', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jacques Charles François Sturm', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Channing Tatum', 'title': 0, 'introduction': 0, 'text': 8, 'infobox': 0, '2009–2016: mainstream success and brief hiatus': 3, '2016–present: return to filmmaking': 1, 'Recurring collaborators': 1, '2011 to present day': 1, 'Writing career': 1}
+{'name': 'Edward the Martyr', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Charlotte Rampling', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0, '2010s: Television and film festivals': 1}
+{'name': 'Yuri Antonov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ivan Ribar', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jim Gibbons (Irish politician)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Herbie Hancock', 'title': 1, 'introduction': 2, 'text': 26, 'infobox': 0, 'Duos, trios, and quartets': 1, 'From V.S.O.P. (1976) to Future Shock (1983)': 1, 'Later career and death': 1, 'Reflections (1958) by Steve Lacy': 1, 'Musician Emeritus': 1, 'Dexter Gordon, Vol. 1 Young Dex 1941-1944 (Masters Of Jazz MJCD 112)': 1}
+{'name': 'Władysław Gomułka', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Mikhail Gromov (aviator)', 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Alva Myrdal', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jennifer Connelly', 'title': 4, 'introduction': 0, 'text': 37, 'infobox': 8, '1986–1999: Mainstream films': 3, '2004–2009: Return to film': 3, 'Career outside film': 1}
+{'name': 'Frank Schirrmacher', 'title': 1, 'introduction': 1, 'text': 2, 'infobox': 2, 'Public debates': 1}
+{'name': "Gerard 't Hooft", 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Robbie Robertson', 'title': 1, 'introduction': 0, 'text': 15, 'infobox': 1, 'Solo career': 5, '1972–1974: Initial struggle for success': 1}
+{'name': 'Siemowit IV, Duke of Masovia', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Cao Jun (Duke of Fan)', 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q1504239', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Queen Sonja of Norway', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Rudolf, Crown Prince of Austria', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0, 'Walter Wanger': 1}
+{'name': 'John Young (astronaut)', 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Charles K. Kao', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'João Paulo (footballer, born 1964)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q17023788', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Shota Rustaveli', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ralph Vaughan Williams', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0}
+{'name': 'Dmitry Malikov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Giacomo Meyerbeer', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Q10620235', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q12325966', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Niels Henrik Abel', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0, 'Honours': 1}
+{'name': 'Pavel Belyayev', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0, 'Cosmonaut selection': 1}
+{'name': 'Viktor Zubkov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nat King Cole', 'title': 0, 'introduction': 0, 'text': 5, 'infobox': 0, 'Duos, trios, and quartets': 1, 'Peterson and Tatum': 1, 'The Fabulous Benny Carter (1946, Audio Lab AL 1505)': 1}
+{'name': 'Jean Tirole', 'title': 0, 'introduction': 1, 'text': 3, 'infobox': 1, 'Contribution to economics': 1}
+{'name': 'Wayne Gretzky', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Tuoba Huang', 'title': 1, 'introduction': 3, 'text': 13, 'infobox': 3, 'Death and aftermaths': 1, 'Middle reign': 1}
+{'name': 'Q11097677', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Živojin Mišić', 'title': 1, 'introduction': 1, 'text': 1, 'infobox': 2}
+{'name': 'Marie of Brabant, Queen of France', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Uvo Hölscher', 'title': 2, 'introduction': 2, 'text': 6, 'infobox': 2}
+{'name': 'Archduke Carl Ludwig of Austria (1918–2007)', 'title': 1, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Jari Litmanen', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11622128', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q15935905', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Mike Beres', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Jean-Léon Gérôme', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10337700', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nero', 'title': 0, 'introduction': 0, 'text': 3, 'infobox': 0, 'On art and architecture': 1, '2011 to present day': 1}
+{'name': 'Prince Joachim of Denmark', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Joanne Muggeridge', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Qian Hongzun', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Tamim bin Hamad Al Thani', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Sir George Thomas, 7th Baronet', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'John Milnor', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Antonin Mercié', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Sneferu', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0, 'Identity': 1}
+{'name': 'Catherine of Bohemia', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Isabelle Huppert', 'title': 1, 'introduction': 0, 'text': 7, 'infobox': 4, 'Reviews': 1, 'Isabelle Huppert on IMDb ': 5}
+{'name': 'Jafar Irismetov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Izyaslav of Polotsk', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Princess Margarete Karola of Saxony', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Sophia Alekseyevna of Russia', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Louis Philippe, comte de Ségur', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'David Rockefeller', 'title': 1, 'introduction': 1, 'text': 7, 'infobox': 2, 'Political connections': 1, 'Residences': 1}
+{'name': 'Emperor Xuan of Northern Zhou', 'title': 1, 'introduction': 1, 'text': 2, 'infobox': 0}
+{'name': 'Vasily Orlov-Denisov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Yoko Ono', 'title': 1, 'introduction': 3, 'text': 62, 'infobox': 10, 'First solo album and Fly': 1, 'Artwork': 1, 'Fluxus': 2, 'Grapefruit book, 1964': 1, 'Experimental films, 1964–72': 1, 'Recognition and retrospectives': 4, '1990s': 1, '2000s': 2, '2010s': 1, "BMI Foundation's John Lennon Scholarships": 1, 'In art and popular culture': 4, '1966–1970: Studio years, break-up and solo work': 1, 'Yoko Ono': 2, 'Former Beatles': 1, 'With Yoko Ono': 2}
+{'name': 'Johann Bernoulli', 'title': 0, 'introduction': 0, 'text': 4, 'infobox': 2}
+{'name': 'Tom Cochrane', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Petro Dyachenko', 'title': 1, 'introduction': 1, 'text': 3, 'infobox': 2}
+{'name': 'Q11564111', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10899590', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Emperor Yuan of Liang', 'title': 1, 'introduction': 1, 'text': 2, 'infobox': 0}
+{'name': 'Q16603717', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Joan I of Navarre', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10720076', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ivan II of Moscow', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Waleran de Beaumont, 1st Earl of Worcester', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'John Coleridge, 1st Baron Coleridge', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Käthe Kollwitz', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Boris Alexandrovich Alexandrov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Alanis Morissette', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Zbigniew Herbert', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ahmed Zewail', 'title': 1, 'introduction': 0, 'text': 7, 'infobox': 2, 'Political work': 2}
+{'name': 'Q10949197', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Gallienus', 'title': 1, 'introduction': 8, 'text': 60, 'infobox': 5, 'Early reign and the revolt of Ingenuus': 6, 'Invasion of the Alemanni': 3, 'The revolt of Regalianus': 2, 'Capture of Valerian, revolt of Macrianus': 2, 'The revolt of Postumus': 6, 'The revolt of Aemilianus': 3, 'Herulian invasions, revolt of Aureolus, conspiracy and death': 8, 'Gallienus was a Pagan': 1, 'Military reforms': 3, 'Decree of Toleration': 1, 'Family tree of Licinia gens': 1, 'Secondary sources': 2}
+{'name': 'Q16603625', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'François Bayrou', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 2}
+{'name': 'Q16603331', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Henry V of England', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q22344319', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Nils Claus Ihlen', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Eduard Suess', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 0}
+{'name': 'Isamu Akasaki', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'William Hurt', 'title': 1, 'introduction': 0, 'text': 15, 'infobox': 0, '1986–1999: Mainstream films': 1, '2010–present': 1, '1992–2000': 1, 'Film career': 1}
+{'name': 'Q16260139', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Philip Pullman', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11097799', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Salvatore Bruno', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ernest Augustus, King of Hanover', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10720896', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Artur Văitoianu', 'title': 1, 'introduction': 0, 'text': 1, 'infobox': 1}
+{'name': 'Lothair I', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0, 'Struggle for the throne': 1}
+{'name': 'Q15950795', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q1336043', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q18668868', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10899586', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q13385975', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q12167152', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Fernando Belaúnde Terry', 'title': 1, 'introduction': 1, 'text': 2, 'infobox': 2}
+{'name': 'Senhime', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Andrey Kuraev', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Zewditu', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Alexandra Feodorovna (Alix of Hesse)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Garret FitzGerald', 'title': 0, 'introduction': 0, 'text': 3, 'infobox': 0, 'Former Taoiseach (Prime Ministers) of Ireland': 1}
+{'name': 'Jerzy Popiełuszko', 'title': 0, 'introduction': 0, 'text': 2, 'infobox': 0, 'Subsequent success and acting career': 1, '1985 to 2000: International fame': 1}
+{'name': 'Q1690441', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603479', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Arne Tiselius', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Archduchess Gisela of Austria', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q10916698', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'William Sunsing', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q19535091', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Aaron Copland', 'title': 0, 'introduction': 0, 'text': 8, 'infobox': 0, 'Musical "borrowing"': 1, 'Classical': 1, '1920s': 1}
+{'name': 'Semyon Vorontsov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q11093955', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q13049771', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Anne of Austria, Queen of Poland', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Anne Tyler', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Patrice de MacMahon', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Thrasyvoulos Zaimis', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Hirofumi Uzawa', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q16603647', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Princess Maria Antonia of Naples and Sicily', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Mary Steenburgen', 'title': 1, 'introduction': 0, 'text': 6, 'infobox': 0, 'Directing career': 1}
+{'name': 'Princess Thyra of Denmark', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Liona Boyd', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Clementia of Burgundy', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ang Lee', 'title': 0, 'introduction': 1, 'text': 7, 'infobox': 0}
+{'name': 'Laurent Blanc', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q20511418', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q15919438', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Alexandre Falguière', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Margaret of Foix', 'title': 1, 'introduction': 1, 'text': 2, 'infobox': 1}
+{'name': 'Ryan Giggs', 'title': 1, 'introduction': 0, 'text': 13, 'infobox': 1, '2002–2003: Boot incident and United exit': 1, 'Porto': 1}
+{'name': 'Adam Oehlenschläger', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Brian De Palma', 'title': 0, 'introduction': 0, 'text': 3, 'infobox': 0, '1970s–2020': 1, '1984–1991: Commercial and popular phenomenon': 1}
+{'name': 'Prince Antonio, Count of Lecce', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Maryam Mirzakhani', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Emperor Mingyuan of Northern Wei', 'title': 1, 'introduction': 1, 'text': 3, 'infobox': 2}
+{'name': 'Mahasweta Devi', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Alexey Lyapunov', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Q1728021', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Niki de Saint Phalle', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Diego León', 'title': 1, 'introduction': 1, 'text': 5, 'infobox': 2}
+{'name': 'Flavia Maximiana Theodora', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ramesses IV', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Lionel Jospin', 'title': 0, 'introduction': 0, 'text': 1, 'infobox': 1}
+{'name': 'Q10332483', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Philip I of Castile', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'Ray Burke (Irish politician)', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 1}
+{'name': 'Sarah Siddons', 'title': 0, 'introduction': 0, 'text': 4, 'infobox': 0, 'From Here to Eternity and Broadway': 1, '1950–1982: Later career and political activities': 1}
+{'name': 'Q15941608', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}
+{'name': 'John G. Trump', 'title': 0, 'introduction': 0, 'text': 0, 'infobox': 0}

@@ -1,0 +1,50 @@
+500 Epochs   1 hidden layer
+    ('Person','parent','Person')  =>  Cross Entropy:  24.336389541625977    Margin Loss:  453.89532470703125    Accuracy: 0.69
+    ('Person', 'child', 'Person')  =>  Cross Entropy:  16.636432647705078    Margin Loss:  249.99745178222656   Accuracy: 0.72
+    ('Person', 'spouse', 'Person')  =>  Cross Entropy:  18.534395217895508    Margin Loss:  574.1431884765625   Accuracy: 0.77
+    ('Person', 'sibling', 'Person')  =>  Cross Entropy:  1.3021763563156128    Margin Loss:  17.641826629638672 Accuracy: 0.70
+    ('Person', 'employer', 'Person')  =>  Cross Entropy:  8.083884239196777    Margin Loss:  401.4363708496094  Accuracy: 0.92
+    ('Person', 'no_relation', 'Person')  =>  Cross Entropy:  0.9252675771713257    Margin Loss:  2929.5625      Accuracy: 0.9
+    ('Person', 'partner', 'Person')  =>  Cross Entropy:  0.5623661875724792    Margin Loss:  4137.4375          Accuracy: 0.72
+    ('Person', 'student', 'Person')  =>  Cross Entropy:  15.423576354980469    Margin Loss:  1901.8070068359375 Accuracy: 0.92
+    ('Person', 'related', 'Person')  =>  Cross Entropy:  1.0892914533615112    Margin Loss:  1122.1025390625    Accuracy: 0.77
+    ('Person', 'colleague', 'Person')  =>  Cross Entropy:  0.08336297422647476    Margin Loss:  4356.5556640625 Accuracy: 1.0
+    ('Person', 'relative', 'Person')  =>  Cross Entropy:  2.358118772506714    Margin Loss:  5982.3447265625    Accuracy: 0.88
+    ('Person', 'nothing', 'Person')  =>  Cross Entropy:  0.2387508898973465    Margin Loss:  20.834312438964844 Accuracy: 1.0
+    ('Person', 'selfloop', 'Person')  =>   Cross Entropy:  0.1559307873249054    Margin Loss:  890.614013671875 Accuracy: 1.0
+
+
+100 Epochs   1 hidden layer   dsm
+    ('Person','parent','Person')  =>            Accuracy: 0.66
+    ('Person', 'child', 'Person')  =>           Accuracy: 0.63
+    ('Person', 'spouse', 'Person')  =>          Accuracy: 0.75
+    ('Person', 'sibling', 'Person')  =>         Accuracy: 
+    ('Person', 'employer', 'Person')  =>        Accuracy: 0.76
+    ('Person', 'no_relation', 'Person')  =>     Accuracy: 0.54
+    ('Person', 'partner', 'Person')  =>         Accuracy: 0.75 
+    ('Person', 'student', 'Person')  =>         Accuracy: 0.57
+    ('Person', 'related', 'Person')  =>         Accuracy: 0.74
+    ('Person', 'colleague', 'Person')  =>       Accuracy: 0.82
+    ('Person', 'relative', 'Person')  =>        Accuracy: 0.53
+    ('Person', 'nothing', 'Person')  =>         Accuracy: 1.0
+    ('Person', 'selfloop', 'Person')  =>        Accuracy: 1.0
+
+
+500 Epochs   2 hidden layer
+    ('Person','parent','Person')  =>            Accuracy: 0.55
+    ('Person', 'child', 'Person')  =>           Accuracy: 0.62
+    ('Person', 'spouse', 'Person')  =>          Accuracy: 0.60
+    ('Person', 'sibling', 'Person')  =>         Accuracy: 0.55
+    ('Person', 'employer', 'Person')  =>        Accuracy: 0.56
+    ('Person', 'no_relation', 'Person')  =>     Accuracy: 0.52
+    ('Person', 'partner', 'Person')  =>         Accuracy: 0.74
+    ('Person', 'student', 'Person')  =>         Accuracy: 0.57
+    ('Person', 'related', 'Person')  =>         Accuracy: 0.74
+    ('Person', 'colleague', 'Person')  =>       Accuracy: 0.82
+    ('Person', 'relative', 'Person')  =>        Accuracy: 0.53
+    ('Person', 'nothing', 'Person')  =>         Accuracy: 1.0
+    ('Person', 'selfloop', 'Person')  =>        Accuracy: 1.0
+
+
+
+    

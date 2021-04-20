@@ -1,0 +1,285 @@
+{
+  'requests': ['query', 'query', 'imageinfo'],
+  'WARNINGS': {
+    'extracts': {
+      'warnings': 'HTML may be malformed and/or unbalanced and may omit inline images. Use at your own risk. Known problems are listed at https://www.mediawiki.org/wiki/Extension:TextExtracts#Caveats.'
+    }
+  },
+  'random': 'Peruvian sierra finch',
+  'redirected': None,
+  'pageid': 16084037,
+  'assessments': {
+    'United States': {
+      'class': 'C',
+      'importance': 'Low'
+    },
+    'Biography': {
+      'class': 'C',
+      'importance': ''
+    },
+    'LGBT studies': {
+      'class': 'C',
+      'importance': ''
+    },
+    'Women': {
+      'class': 'C',
+      'importance': ''
+    },
+    'U.S. Congress': {
+      'class': 'C',
+      'importance': 'Low'
+    }
+  },
+  'extract': '<p class="mw-empty-elt">\n</p>\n\n<p><b>Kyrsten Lea Sinema</b> (<span></span>; born July 12, 1976) is an American politician serving as the senior United States Senator from Arizona since January 2019. A member of the Democratic Party, she served three terms as the Representative from the 15th District of the Arizona House of Representatives from 2005 to 2011, one term as the Senator from the 15th District of the Arizona Senate from 2011 to 2012, and three terms as the United States Representative from <span data-sort-value="Arizona09\xa0!">Arizona\'s 9th congressional district</span> from 2013 to 2019.\n</p><p>Sinema began her political career in the Arizona Green Party before joining the Arizona Democratic Party in 2004. She rose to prominence for her advocacy of LGBT rights in Arizona and same-sex marriage in Arizona. She won the 2012 United States House of Representatives election in Arizona\'s 9th congressional district. After her election to the United States Congress, she joined the conservative Blue Dog Coalition and the bipartisan Problem Solvers Caucus and amassed a moderate centrist voting record. She won the 2018 United States Senate election in Arizona to replace retiring United States Senator Jeff Flake, defeating Republican nominee Martha McSally.\n</p><p>As an openly bisexual woman, Sinema has made history several times through her electoral success. In 2012, she became the first openly bisexual person and second openly LGBT woman (after Tammy Baldwin of Wisconsin) elected to the United States Congress. In 2018, she became the first openly bisexual person and second openly LGBT person (after Baldwin) elected to the United States Senate as well as the first woman elected to the United States Senate from Arizona.\n</p>',
+  'extext': "**Kyrsten Lea Sinema** (; born July 12, 1976) is an American politician\nserving as the senior United States Senator from Arizona since January 2019. A\nmember of the Democratic Party, she served three terms as the Representative\nfrom the 15th District of the Arizona House of Representatives from 2005 to\n2011, one term as the Senator from the 15th District of the Arizona Senate\nfrom 2011 to 2012, and three terms as the United States Representative from\nArizona's 9th congressional district from 2013 to 2019.\n\nSinema began her political career in the Arizona Green Party before joining\nthe Arizona Democratic Party in 2004. She rose to prominence for her advocacy\nof LGBT rights in Arizona and same-sex marriage in Arizona. She won the 2012\nUnited States House of Representatives election in Arizona's 9th congressional\ndistrict. After her election to the United States Congress, she joined the\nconservative Blue Dog Coalition and the bipartisan Problem Solvers Caucus and\namassed a moderate centrist voting record. She won the 2018 United States\nSenate election in Arizona to replace retiring United States Senator Jeff\nFlake, defeating Republican nominee Martha McSally.\n\nAs an openly bisexual woman, Sinema has made history several times through her\nelectoral success. In 2012, she became the first openly bisexual person and\nsecond openly LGBT woman (after Tammy Baldwin of Wisconsin) elected to the\nUnited States Congress. In 2018, she became the first openly bisexual person\nand second openly LGBT person (after Baldwin) elected to the United States\nSenate as well as the first woman elected to the United States Senate from\nArizona.",
+  'url': 'https://en.wikipedia.org/wiki/Kyrsten_Sinema',
+  'url_raw': 'https://en.wikipedia.org/wiki/Kyrsten_Sinema?action=raw',
+  'length': 118472,
+  'links': ['113th United States Congress', '114th United States Congress', '115th United States Congress', '116th United States Congress', '2012 United States House of Representatives elections in Arizona', '2014 United States House of Representatives elections in Arizona', '2016 United States House of Representatives elections in Arizona', '2018 United States Senate election in Arizona', '9/11', '9/11 Truth movement', 'ABC News', 'ACA International', 'AP News', 'Abortion rights', 'Abstention', 'Affordable Care Act', 'Air America (radio network)', 'American Future Fund', 'American SAFE Act of 2015', 'Americans for Democratic Action', 'Americans for Prosperity', 'Amy Klobuchar', 'Andrei Cherny', 'Andrew Gould (judge)', 'Andy Biggs', 'Andy Tobin', 'Angus King', 'Ann Kirkpatrick', 'Ann Timmer', 'Arizona', 'Arizona Attorney General', 'Arizona Corporation Commission', 'Arizona Democratic Party', 'Arizona Green Party', 'Arizona House of Representatives', 'Arizona Proposition 102 (2008)', 'Arizona Proposition 107 (2006)', 'Arizona SB 1070', 'Arizona Senate', 'Arizona State Capitol', 'Arizona State Mine Inspector', 'Arizona State University', 'Arizona State University College of Law', 'Arizona State University Tempe campus', 'Arizona Summit Law School', 'Arizona Superintendent of Public Instruction', 'Arizona Supreme Court', "Arizona's 15th legislative district", "Arizona's 9th congressional district", 'Associated Press', 'Atheist', 'Attack ad', 'Bachelor of Arts', 'Backpage', 'Ballot Access News', 'Barack Obama', 'Barry Goldwater', 'Ben Cardin', 'Ben Sasse', 'Bernie Sanders', 'Bill Cassidy', 'Bill Montgomery (Arizona politician)', 'Biographical Directory of the United States Congress', 'Bipartisan', 'Bitgum', 'Blue Dog Coalition', 'Bob Burns (Arizona politician)', 'Bob Casey Jr.', 'Bob Menendez', 'Boyd Dunn', 'Brett Kavanaugh', 'Brian Schatz', 'Brigham Young University', 'Broadband', 'C-SPAN', 'CBS News', 'CNN', 'Campaign ad', 'Campaign for Working Families', 'Carl Hayden', 'Catherine Cortez Masto', 'Center for Inquiry', 'Centrism', 'Charlene Fernandez', 'Chris Coons', 'Chris Murphy', 'Chris Van Hollen', 'Chuck Grassley', 'Chuck Schumer', 'Cindy Hyde-Smith', 'Civil union', 'Civil unions', 'Classes of United States Senators', 'Climate change', 'Clint Bolick', 'Clinton administration', 'Congressional Arts Caucus', 'Conservatism in the United States', 'Conservative', 'Conservative Democrat', 'Constitution of Arizona', 'Consumer Financial Protection Bureau', 'Cory Booker', 'Cory Gardner', 'Criminal defense lawyer', 'Curlie', 'DREAM Act', 'Daily Kos', 'Dan Sullivan (U.S. senator)', 'David Bernhardt', 'David Bradley (politician)', 'David Lujan', 'David Perdue', 'David Schapira', 'David Schweikert', 'DeFuniak Springs, Florida', 'Deb Fischer', 'Debbie Lesko', 'Debbie Stabenow', 'Democratic Party (United States)', 'Dennis DeConcini', 'Dianne Feinstein', 'Dick Durbin', 'Director of National Intelligence', 'Director of the Federal Bureau of Investigation', 'Doctor of Philosophy', 'Domestic partnership', 'Donald Trump', 'Doug Ducey', 'Doug Jones (politician)', "EMILY's List", 'East Valley Tribune', 'Ed Buck', 'Ed Markey', 'Ed Pastor', 'Eddie Farnsworth', 'Elizabeth Warren', 'Elle (magazine)', 'Elle Magazine', 'Ernest McFarland', 'Estate tax in the United States', 'Federal Communications Commission', 'Federal Election Commission', 'Federation for American Immigration Reform', 'Fiscal policy', 'FiveThirtyEight', 'Florida Panhandle', 'Friesland', 'Frisian Americans', 'Gary Peters', 'Gas station', 'Gender identity', 'Goldwater Institute', 'Government of Arizona', 'Green New Deal', 'Green Party (United States)', 'Green Party of the United States', 'Greg Stanton', 'Gun Owners of America', 'Gun control', 'Harry Mitchell', 'Heeg', 'Henry F. Ashurst', 'Hippie', 'Human Rights Campaign', 'Impeachment trial of Donald Trump', 'Incumbent', 'Independent (United States)', 'Independent politician', 'Integrated Authority File', 'International Standard Book Number', 'International Standard Name Identifier', 'Iran Nuclear Deal', 'Ironman Triathlon', 'Jack Reed (Rhode Island politician)', 'Jacky Rosen', 'James Beene', 'James Lankford', 'Jeanne Shaheen', 'Jeff Farias', 'Jeff Flake', 'Jeff Merkley', 'Jerry Moran', 'Jim Inhofe', 'Jim Risch', 'Joe Hart (politician)', 'Joe Manchin', 'John Barrasso', 'John Boozman', 'John Cornyn', 'John Hoeven', 'John Katko', 'John Kennedy (Louisiana politician)', 'John Lopez IV', 'John McCain', 'John Thune', 'Jon Kyl', 'Jon Tester', 'Jonathan Martin (journalist)', 'Joni Ernst', 'Josh Hawley', 'Juris Doctor', 'Justin Amash', 'Justin Olson', 'KTAR-FM', 'Kamala Harris', 'Karen Fann', "Kate's Law", 'Kathy Hoffman', 'Katie Hobbs', 'Kelly Loeffler', 'Ken Cheuvront', 'Ken Clark (politician)', 'Kevin Cramer', 'Kimberly Yee', 'Kirsten Gillibrand', 'LGBT', 'LGBT rights in Arizona', 'Lamar Alexander', 'Leah Campos Schandlbauer', 'Leeuwarder Courant', 'Lela Alston', 'Lexington Books', 'Libertarian Party (United States)', 'Library of Congress', 'Library of Congress Control Number', 'Lindsey Graham', 'Lisa Murkowski', 'List of Governors of Arizona', 'List of LGBT members of the United States Congress', 'List of United States Representatives from Arizona', 'List of United States Senators from Arizona', 'List of United States senators from Alabama', 'List of United States senators from Alaska', 'List of United States senators from Arizona', 'List of United States senators from Arkansas', 'List of United States senators from California', 'List of United States senators from Colorado', 'List of United States senators from Connecticut', 'List of United States senators from Delaware', 'List of United States senators from Florida', 'List of United States senators from Georgia', 'List of United States senators from Hawaii', 'List of United States senators from Idaho', 'List of United States senators from Illinois', 'List of United States senators from Indiana', 'List of United States senators from Iowa', 'List of United States senators from Kansas', 'List of United States senators from Kentucky', 'List of United States senators from Louisiana', 'List of United States senators from Maine', 'List of United States senators from Maryland', 'List of United States senators from Massachusetts', 'List of United States senators from Michigan', 'List of United States senators from Minnesota', 'List of United States senators from Mississippi', 'List of United States senators from Missouri', 'List of United States senators from Montana', 'List of United States senators from Nebraska', 'List of United States senators from Nevada', 'List of United States senators from New Hampshire', 'List of United States senators from New Jersey', 'List of United States senators from New Mexico', 'List of United States senators from New York', 'List of United States senators from North Carolina', 'List of United States senators from North Dakota', 'List of United States senators from Ohio', 'List of United States senators from Oklahoma', 'List of United States senators from Oregon', 'List of United States senators from Pennsylvania', 'List of United States senators from Rhode Island', 'List of United States senators from South Carolina', 'List of United States senators from South Dakota', 'List of United States senators from Tennessee', 'List of United States senators from Texas', 'List of United States senators from Utah', 'List of United States senators from Vermont', 'List of United States senators from Virginia', 'List of United States senators from Washington', 'List of United States senators from West Virginia', 'List of United States senators from Wisconsin', 'List of United States senators from Wyoming', 'List of current United States senators', 'List of the first LGBT holders of political offices in the United States', 'Maggie Hassan', 'Marco Rubio', 'Marcus A. Smith', 'Maria Cantwell', 'Mark Brnovich', 'Mark Warner', 'Marsha Blackburn', 'Martha McSally', 'Martin Heinrich', 'Master of Social Work', 'Matt Salmon', 'Mazie Hirono', 'McCourt School of Public Policy', 'Michael Bennet', 'Mike Braun', 'Mike Crapo', 'Mike Enzi', 'Mike Lee (American politician)', 'Mike Pence', 'Mike Rounds', 'Minority leader', 'Mitch McConnell', 'Mitt Romney', 'Modern liberalism in the United States', 'Morning Consult', 'Mother Jones (magazine)', 'Mount Kilimanjaro', 'NBC News', 'Nancy Pelosi', 'National Journal', 'National Library of Israel', 'National Republican Congressional Committee', 'National Rifle Association', 'National Security Agency', 'Netherlands', 'New Democrat Coalition', 'New Democrats', 'Non-theist', 'Nonbeliever', 'Nontheism', 'Oath of office', 'On the Issues', 'Osama bin Laden', 'Paradise Valley, Arizona', 'Pat Roberts', 'Pat Toomey', 'Patrick Leahy', 'Patrilineality', 'Patty Murray', 'Paul Fannin', 'Paul Gosar', 'Phoenix metropolitan area', 'Phoenix, Arizona', 'Planned Parenthood', 'PolitiFact', 'President of the United States Senate', 'President pro tempore of the United States Senate', 'Pro-choice', 'Pro-life', 'Problem Solvers Caucus', 'Provinces of the Netherlands', 'Ralph H. Cameron', 'Ralph Nader', 'Rand Paul', 'Raúl Grijalva', 'Real Clear Politics', 'Refugee', 'Republican Party (United States)', 'Resign-to-run laws', 'Richard Blumenthal', 'Richard Burr', 'Richard Carmona', 'Richard Shelby', 'Rick Gray (Arizona politician)', 'Rick Scott', 'Rob Portman', 'Robert M. Brutinel', 'Roe v. Wade', 'Roger Wicker', 'Roll Call', 'Ron Barber', 'Ron Johnson (Wisconsin politician)', 'Ron Wyden', 'Rowman & Littlefield', 'Roy Blunt', 'Royal Library of the Netherlands', 'Ruben Gallego', 'Russell Bowers', 'Rwandan genocide', 'Same-sex marriage', 'Same-sex marriage in Arizona', 'Sandra Kennedy', 'Secretary of Homeland Security', 'Secretary of State of Arizona', 'Secularism', 'Seniority in the United States Senate', 'Sheldon Whitehouse', 'Shelley Moore Capito', 'Sherrod Brown', 'Sinema', 'Sinema (disambiguation)', 'Sioux City, Iowa', 'Social worker', 'Speaker of the United States House of Representatives', 'Stalking', 'State Treasurer of Arizona', 'Steve Daines', 'Supreme Court of the United States', 'Susan Collins', 'Système universitaire de documentation', 'T. J. Shope', 'Tammy Baldwin', 'Tammy Duckworth', 'Ted Cruz', 'The Advocate (LGBT magazine)', 'The Arizona Republic', 'The Church of Jesus Christ of Latter-day Saints', 'The Daily Beast', 'The Hill (newspaper)', 'The Lugar Center', 'The New York Times', 'The Washington Post', 'Thom Tillis', 'Thomas.gov', 'Tim Kaine', 'Tim Scott', 'Time (magazine)', 'Tina Smith', 'Todd Young', 'Tom Carper', 'Tom Cotton', "Tom O'Halleran", 'Tom Udall', 'Trent Franks', 'Triathlon', 'Tripod.com', 'Trump tax cuts', 'Tucson, Arizona', 'Twin Falls, Idaho', 'U.S. Immigration and Customs Enforcement', 'USA Today', 'UnidosUS', 'United States Chamber of Commerce', 'United States Congress', 'United States Constitution', 'United States Department of Justice', 'United States House Committee on Financial Services', 'United States House Financial Services Subcommittee on Housing and Insurance', 'United States House Financial Services Subcommittee on Oversight and Investigations', 'United States House of Representatives', 'United States House of Representatives elections in Arizona, 2012', 'United States Representative', 'United States Senate', 'United States Senate Banking Subcommittee on Economic Policy', 'United States Senate Banking Subcommittee on National Security and International Trade and Finance', 'United States Senate Banking Subcommittee on Securities, Insurance, and Investment', 'United States Senate Commerce Subcommittee on Aviation and Space', 'United States Senate Commerce Subcommittee on Communications, Technology, Innovation, and the Internet', 'United States Senate Commerce Subcommittee on Manufacturing, Trade and Consumer Protection', 'United States Senate Commerce Subcommittee on Security', 'United States Senate Committee on Banking, Housing, and Urban Affairs', 'United States Senate Committee on Commerce, Science, and Transportation', 'United States Senate Committee on Homeland Security and Governmental Affairs', "United States Senate Committee on Veterans' Affairs", 'United States Senate Homeland Security Subcommittee on Federal Spending Oversight and Emergency Management', 'United States Senate Homeland Security Subcommittee on Regulatory Affairs and Federal Management', 'United States Senate Special Committee on Aging', 'United States Senate election in Arizona, 2018', 'United States Senator', 'United States congressional delegations from Arizona', 'United States order of precedence', 'Vernon Parker', 'Veterinary Medicine Caucus', 'Virtual International Authority File', 'Vote Smart', 'Wally Straughn', 'Walton High School (DeFuniak Springs, Florida)', 'Ward Connerly', 'Warren Petersen', 'Washington Elementary School District', 'Wayback Machine', 'William Barr', 'Wisconsin', 'Women in the United States House of Representatives', 'Women in the United States Senate', 'WorldCat Identities', 'Write-in'],
+  'modified': {
+    'page': '2020-04-14T17:44:32Z'
+  },
+  'wikibase': 'Q1556541',
+  'wikidata_url': 'https://www.wikidata.org/wiki/Q1556541',
+  'redirects': [{
+    'pageid': 37627537,
+    'ns': 0,
+    'title': 'Krysten Simena'
+  }, {
+    'pageid': 37627541,
+    'ns': 0,
+    'title': 'Kirsten Simena'
+  }, {
+    'pageid': 37627544,
+    'ns': 0,
+    'title': 'Kirsten Sinema'
+  }, {
+    'pageid': 37627593,
+    'ns': 0,
+    'title': 'Krysten Sinema'
+  }, {
+    'pageid': 52476403,
+    'ns': 0,
+    'title': 'Representative Kyrsten Sinema'
+  }, {
+    'pageid': 52548130,
+    'ns': 0,
+    'title': 'Representative Sinema'
+  }, {
+    'pageid': 59039860,
+    'ns': 0,
+    'title': 'Unite and Conquer'
+  }, {
+    'pageid': 59039867,
+    'ns': 0,
+    'title': "Who Must Die in Rwanda's Genocide?"
+  }, {
+    'pageid': 59041404,
+    'ns': 0,
+    'title': 'Sinema'
+  }, {
+    'pageid': 59094569,
+    'ns': 0,
+    'title': 'Electoral history of Kyrsten Sinema'
+  }, {
+    'pageid': 62004655,
+    'ns': 0,
+    'title': 'Senator Sinema'
+  }, {
+    'pageid': 63070196,
+    'ns': 0,
+    'title': 'Kristen Sinema'
+  }],
+  'aliases': ['Kyrsten Lea Sinema'],
+  'description': 'United States Senator from Arizona',
+  'label': 'Kyrsten Sinema',
+  'title': 'Kyrsten Sinema',
+  'watchers': 132,
+  'image': [{
+    'kind': 'query-pageimage',
+    'file': 'File:Kyrsten Sinema (cropped).jpg',
+    'orig': 'Kyrsten_Sinema_(cropped).jpg',
+    'timestamp': '2018-10-05T00:45:27Z',
+    'size': 3017478,
+    'width': 2000,
+    'height': 2800,
+    'url': 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Kyrsten_Sinema_%28cropped%29.jpg',
+    'descriptionurl': 'https://commons.wikimedia.org/wiki/File:Kyrsten_Sinema_(cropped).jpg',
+    'descriptionshorturl': 'https://commons.wikimedia.org/w/index.php?curid=73387665',
+    'title': 'File:Kyrsten Sinema (cropped).jpg',
+    'metadata': {
+      'DateTime': {
+        'value': '2018-10-05 00:45:27',
+        'source': 'mediawiki-metadata',
+        'hidden': ''
+      },
+      'ObjectName': {
+        'value': 'Kyrsten Sinema (cropped)',
+        'source': 'mediawiki-metadata',
+        'hidden': ''
+      },
+      'CommonsMetadataExtension': {
+        'value': 1.2,
+        'source': 'extension',
+        'hidden': ''
+      },
+      'Categories': {
+        'value': 'August 2018 in Washington, D.C.|Extracted images|Kyrsten Sinema in 2018|Official portraits of Kyrsten Sinema|PD US Congress',
+        'source': 'commons-categories',
+        'hidden': ''
+      },
+      'Assessments': {
+        'value': '',
+        'source': 'commons-categories',
+        'hidden': ''
+      },
+      'ImageDescription': {
+        'value': '<a href="https://en.wikipedia.org/wiki/Kyrsten_Sinema" class="extiw" title="w:Kyrsten Sinema">Kyrsten Sinema</a> official photo 2018',
+        'source': 'commons-desc-page'
+      },
+      'DateTimeOriginal': {
+        'value': '2018-08-24 08:49:44',
+        'source': 'commons-desc-page'
+      },
+      'Credit': {
+        'value': '<a rel="nofollow" class="external free" href="https://sinema.house.gov/uploads/KyrstenSinema.jpg">https://sinema.house.gov/uploads/KyrstenSinema.jpg</a>',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'Artist': {
+        'value': 'US House office of photography',
+        'source': 'commons-desc-page'
+      },
+      'LicenseShortName': {
+        'value': 'Public domain',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'UsageTerms': {
+        'value': 'Public domain',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'AttributionRequired': {
+        'value': 'false',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'Copyrighted': {
+        'value': 'False',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'Restrictions': {
+        'value': '',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'License': {
+        'value': 'pd',
+        'source': 'commons-templates',
+        'hidden': ''
+      }
+    }
+  }, {
+    'kind': 'query-thumbnail',
+    'width': 171,
+    'height': 240,
+    'url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyrsten_Sinema_%28cropped%29.jpg/171px-Kyrsten_Sinema_%28cropped%29.jpg',
+    'file': 'File:Kyrsten Sinema %28cropped%29.jpg',
+    'orig': 'Kyrsten_Sinema_%28cropped%29.jpg'
+  }, {
+    'kind': 'query-pageimage',
+    'file': 'File:Kyrsten Sinema (cropped).jpg',
+    'orig': 'Kyrsten_Sinema_(cropped).jpg',
+    'timestamp': '2018-10-05T00:45:27Z',
+    'size': 3017478,
+    'width': 2000,
+    'height': 2800,
+    'url': 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Kyrsten_Sinema_%28cropped%29.jpg',
+    'descriptionurl': 'https://commons.wikimedia.org/wiki/File:Kyrsten_Sinema_(cropped).jpg',
+    'descriptionshorturl': 'https://commons.wikimedia.org/w/index.php?curid=73387665',
+    'title': 'File:Kyrsten Sinema (cropped).jpg',
+    'metadata': {
+      'DateTime': {
+        'value': '2018-10-05 00:45:27',
+        'source': 'mediawiki-metadata',
+        'hidden': ''
+      },
+      'ObjectName': {
+        'value': 'Kyrsten Sinema (cropped)',
+        'source': 'mediawiki-metadata',
+        'hidden': ''
+      },
+      'CommonsMetadataExtension': {
+        'value': 1.2,
+        'source': 'extension',
+        'hidden': ''
+      },
+      'Categories': {
+        'value': 'August 2018 in Washington, D.C.|Extracted images|Kyrsten Sinema in 2018|Official portraits of Kyrsten Sinema|PD US Congress',
+        'source': 'commons-categories',
+        'hidden': ''
+      },
+      'Assessments': {
+        'value': '',
+        'source': 'commons-categories',
+        'hidden': ''
+      },
+      'ImageDescription': {
+        'value': '<a href="https://en.wikipedia.org/wiki/Kyrsten_Sinema" class="extiw" title="w:Kyrsten Sinema">Kyrsten Sinema</a> official photo 2018',
+        'source': 'commons-desc-page'
+      },
+      'DateTimeOriginal': {
+        'value': '2018-08-24 08:49:44',
+        'source': 'commons-desc-page'
+      },
+      'Credit': {
+        'value': '<a rel="nofollow" class="external free" href="https://sinema.house.gov/uploads/KyrstenSinema.jpg">https://sinema.house.gov/uploads/KyrstenSinema.jpg</a>',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'Artist': {
+        'value': 'US House office of photography',
+        'source': 'commons-desc-page'
+      },
+      'LicenseShortName': {
+        'value': 'Public domain',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'UsageTerms': {
+        'value': 'Public domain',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'AttributionRequired': {
+        'value': 'false',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'Copyrighted': {
+        'value': 'False',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'Restrictions': {
+        'value': '',
+        'source': 'commons-desc-page',
+        'hidden': ''
+      },
+      'License': {
+        'value': 'pd',
+        'source': 'commons-templates',
+        'hidden': ''
+      }
+    }
+  }, {
+    'kind': 'query-thumbnail',
+    'width': 171,
+    'height': 240,
+    'url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyrsten_Sinema_%28cropped%29.jpg/171px-Kyrsten_Sinema_%28cropped%29.jpg',
+    'file': 'File:Kyrsten Sinema %28cropped%29.jpg',
+    'orig': 'Kyrsten_Sinema_%28cropped%29.jpg'
+  }]
+}
