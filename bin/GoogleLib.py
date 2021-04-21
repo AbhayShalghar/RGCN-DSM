@@ -4,8 +4,6 @@ import urllib.parse
 import urllib.request
 from googleapiclient.discovery import build
 
-my_api_key = "AIzaSyDv0xz6bnl-pFzcmn3-NmlNT662HQmTgos"
-my_cse_id = "014907431480918052286:l-h94audtze"
 
 def google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
